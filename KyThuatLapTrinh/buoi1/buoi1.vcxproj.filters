@@ -18,5 +18,8 @@
     <ClCompile Include="buoi1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Ti.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
